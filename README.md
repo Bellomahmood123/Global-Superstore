@@ -68,5 +68,6 @@ There is an intermitted rise and fall in the gross income of the store by every 
 ### Conclusion and Recommendations:
 - United State has the highest profit
 - There are -- products in the store with total worth of -- million
-Recommendation: For deep dive into the analytics, the dataset of the previous years will be required for comparison and data driven decision making. 
+
+### Recommendation: For deep dive into the analytics, the dataset of the previous years will be required for comparison and data driven decision making. 
 
