@@ -1,5 +1,5 @@
 ### Global-Superstore Anlysis
----
+![](superstore_global.jpg)
 ![](superstore_global.jpg)
 ---
 ### Introduction
