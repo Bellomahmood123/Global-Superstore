@@ -1,6 +1,6 @@
 ### Global-Superstore Anlysis
 ---
-![](global_superstore.png)
+![](superstore_global.jpg)
 ---
 ### Introduction
 This is a Power BI project on **Global Superstore**. 
